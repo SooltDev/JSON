@@ -1,7 +1,7 @@
 [
     {
-        "firstName": "Sándor",
-        "lastName": "Ferenc",
+        "lastName": "Sándor",
+        "firstName": "Ferenc",
         "username": "ferike",
         "birthdate": 2002,
         "email": "ferike@json.hu",
@@ -9,8 +9,8 @@
         "status": "user"
     },
     {
-        "firstName": "Vass",
-        "lastName": "Melánia",
+        "lastName": "Vass",
+        "firstName": "Melánia",
         "username": "melike",
         "birthdate": 1996,
         "email": "melike@json.hu",
@@ -18,8 +18,8 @@
         "status": "user"
     },
     {
-        "firstName": "Solymosi",
-        "lastName": "Aranka",
+        "lastName": "Solymosi",
+        "firstName": "Aranka",
         "username": "arika",
         "birthdate": 1995,
         "email": "ari@json.hu",
@@ -27,8 +27,8 @@
         "status": "admin"
     },
     {
-        "firstName": "Hegedűs",
-        "lastName": "Imre",
+        "lastName": "Hegedűs",
+        "firstName": "Imre",
         "username": "imi",
         "birthdate": 1996,
         "email": "imi@json.hu",
@@ -36,8 +36,8 @@
         "status": "admin"
     },
     {
-        "firstName": "László",
-        "lastName": "Tamás",
+        "lastName": "László",
+        "firstName": "Tamás",
         "username": "tami",
         "birthdate": 1989,
         "email": "tami@json.hu",
@@ -45,8 +45,8 @@
         "status": "user"
     },
     {
-        "firstName": "Imrefi",
-        "lastName": "Balázs",
+        "lastName": "Imrefi",
+        "firstName": "Balázs",
         "username": "bali",
         "birthdate": 1996,
         "email": "bali@json.hu",
@@ -54,8 +54,8 @@
         "status": "admin"
     },
     {
-        "firstName": "Hadnagy",
-        "lastName": "Ákos",
+        "lastName": "Hadnagy",
+        "firstName": "Ákos",
         "username": "akos",
         "birthdate": 1996,
         "email": "akos@json.hu",
@@ -63,8 +63,8 @@
         "status": "user"
     },
     {
-        "firstName": "Csender",
-        "lastName": "Tünde",
+        "lastName": "Csender",
+        "firstName": "Tünde",
         "username": "tunci",
         "birthdate": 1996,
         "email": "tunci@json.hu",
@@ -72,8 +72,8 @@
         "status": "user"
     },
     {
-        "firstName": "Orbán",
-        "lastName": "Péter",
+        "lastName": "Orbán",
+        "firstName": "Péter",
         "username": "peti",
         "birthdate": 1998,
         "email": "peti@json.hu",
@@ -81,8 +81,8 @@
         "status": "admin"
     },
     {
-        "firstName": "Hevesi",
-        "lastName": "Áron",
+        "lastName": "Hevesi",
+        "firstName": "Áron",
         "username": "aron",
         "birthdate": 1996,
         "email": "aron@json.hu",
@@ -90,8 +90,8 @@
         "status": "user"
     },
     {
-        "firstName": "Lakatos",
-        "lastName": "Zoltán",
+        "lastName": "Lakatos",
+        "firstName": "Zoltán",
         "username": "zoli",
         "birthdate": 1988,
         "email": "zoli@json.hu",
@@ -99,8 +99,8 @@
         "status": "user"
     },
     {
-        "firstName": "Márton",
-        "lastName": "Kinga",
+        "lastName": "Márton",
+        "firstName": "Kinga",
         "username": "kinga",
         "birthdate": 1996,
         "email": "kinga@json.hu",
