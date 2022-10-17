@@ -13,7 +13,7 @@
         "firstName": "Melánia",
         "username": "melike",
         "birthdate": 1996,
-        "email": "melike@json.hu",
+        "email": "melike@pro.hu",
         "active": true,
         "status": "user"
     },
@@ -31,7 +31,7 @@
         "firstName": "Imre",
         "username": "imi",
         "birthdate": 1996,
-        "email": "imi@json.hu",
+        "email": "imi@pro.hu",
         "active": false,
         "status": "admin"
     },
@@ -49,7 +49,7 @@
         "firstName": "Balázs",
         "username": "bali",
         "birthdate": 1996,
-        "email": "bali@json.hu",
+        "email": "bali@pro.hu",
         "active": false,
         "status": "admin"
     },
@@ -67,7 +67,7 @@
         "firstName": "Tünde",
         "username": "tunci",
         "birthdate": 1996,
-        "email": "tunci@json.hu",
+        "email": "tunci@pro.hu",
         "active": true,
         "status": "user"
     },
@@ -94,7 +94,7 @@
         "firstName": "Zoltán",
         "username": "zoli",
         "birthdate": 1988,
-        "email": "zoli@json.hu",
+        "email": "zoli@pro.hu",
         "active": true,
         "status": "user"
     },
