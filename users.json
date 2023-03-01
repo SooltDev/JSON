@@ -7,7 +7,8 @@
         "birthdate": 2002,
         "email": "ferike@json.hu",
         "active": true,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-02-01 12:32"
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "birthdate": 1996,
         "email": "melike@pro.hu",
         "active": true,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-01-01 10:13"
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "birthdate": 1995,
         "email": "ari@json.hu",
         "active": false,
-        "status": "admin"
+        "status": "admin",
+        "lastLogin": "2023-02-12 18:54"
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "birthdate": 1996,
         "email": "imi@pro.hu",
         "active": false,
-        "status": "admin"
+        "status": "admin",
+        "lastLogin": "2021-12-24 00:34"
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "birthdate": 1989,
         "email": "tami@json.hu",
         "active": true,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-02-22 08:43"
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "birthdate": 1996,
         "email": "bali@pro.hu",
         "active": false,
-        "status": "admin"
+        "status": "admin",
+        "lastLogin": "2023-03-01 10:12"
     },
     {
         "id": 7,
@@ -67,7 +73,8 @@
         "birthdate": 1996,
         "email": "akos@json.hu",
         "active": true,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-02-24 11:21"
     },
     {
         "id": 8,
@@ -77,7 +84,8 @@
         "birthdate": 1996,
         "email": "tunci@pro.hu",
         "active": true,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-02-26 10:53"
     },
     {
         "id": 9,
@@ -87,7 +95,8 @@
         "birthdate": 1998,
         "email": "peti@json.hu",
         "active": false,
-        "status": "admin"
+        "status": "admin",
+        "lastLogin": "2023-01-17 18:27"
     },
     {
         "id": 10,
@@ -97,7 +106,8 @@
         "birthdate": 1996,
         "email": "aron@json.hu",
         "active": false,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-01-20 17:21"
     },
     {
         "id": 11,
@@ -107,7 +117,8 @@
         "birthdate": 1988,
         "email": "zoli@pro.hu",
         "active": true,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-02-11 19:14"
     },
     {
         "id": 12,
@@ -117,6 +128,7 @@
         "birthdate": 1996,
         "email": "kinga@json.hu",
         "active": true,
-        "status": "user"
+        "status": "user",
+        "lastLogin": "2023-02-12 15:37"
     }
 ]
