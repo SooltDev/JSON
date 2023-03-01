@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "lastName": "Sándor",
         "firstName": "Ferenc",
         "username": "ferike",
@@ -9,6 +10,7 @@
         "status": "user"
     },
     {
+        "id": 2,
         "lastName": "Vass",
         "firstName": "Melánia",
         "username": "melike",
@@ -18,6 +20,7 @@
         "status": "user"
     },
     {
+        "id": 3,
         "lastName": "Solymosi",
         "firstName": "Aranka",
         "username": "arika",
@@ -27,6 +30,7 @@
         "status": "admin"
     },
     {
+        "id": 4,
         "lastName": "Hegedűs",
         "firstName": "Imre",
         "username": "imi",
@@ -36,6 +40,7 @@
         "status": "admin"
     },
     {
+        "id": 5,
         "lastName": "László",
         "firstName": "Tamás",
         "username": "tami",
@@ -45,6 +50,7 @@
         "status": "user"
     },
     {
+        "id": 6,
         "lastName": "Imrefi",
         "firstName": "Balázs",
         "username": "bali",
@@ -54,6 +60,7 @@
         "status": "admin"
     },
     {
+        "id": 7,
         "lastName": "Hadnagy",
         "firstName": "Ákos",
         "username": "akos",
@@ -63,6 +70,7 @@
         "status": "user"
     },
     {
+        "id": 8,
         "lastName": "Csender",
         "firstName": "Tünde",
         "username": "tunci",
@@ -72,6 +80,7 @@
         "status": "user"
     },
     {
+        "id": 9,
         "lastName": "Orbán",
         "firstName": "Péter",
         "username": "peti",
@@ -81,6 +90,7 @@
         "status": "admin"
     },
     {
+        "id": 10,
         "lastName": "Hevesi",
         "firstName": "Áron",
         "username": "aron",
@@ -90,6 +100,7 @@
         "status": "user"
     },
     {
+        "id": 11,
         "lastName": "Lakatos",
         "firstName": "Zoltán",
         "username": "zoli",
@@ -99,6 +110,7 @@
         "status": "user"
     },
     {
+        "id": 12,
         "lastName": "Márton",
         "firstName": "Kinga",
         "username": "kinga",
