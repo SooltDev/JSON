@@ -1,0 +1,8 @@
+[
+    {"text": 'Alma'},
+    {"text": 'Kenyér', "done": true},
+    {"text": 'Liszt', "done": true},
+    {"text": 'Olaj', "done": false},
+    'Cukor',
+    {"text": "Rizs", "done": true}
+]
