@@ -2,34 +2,48 @@
     "name": "Betonkavaró",
     "price": 62000,
     "img": "img/betonkevero.jpg",
-    "_id": "1652113646088-7019698"
+    "_id": "1652113646088-7019698",
+    "category": "electric",
+    "inStock": 5
 }, {
     "name": "Sarokcsiszolo 115",
     "price": 14000,
     "img": "img/sarokcsiszolo.png",
-    "_id": "1652113646088-43795918"
+    "_id": "1652113646088-43795918",
+    "category": "electric",
+    "inStock": 0
 }, {
     "name": "Véső 20mm",
     "price": 2000,
     "img": "img/veso.jpg",
-    "_id": "1652113646088-56824714"
+    "_id": "1652113646088-56824714",
+    "category": "hand",
+    "inStock": 42
 }, {
     "name": "Gyalu 45mm",
     "price": 4500,
-    "_id": "1652113646088-23086970"
+    "_id": "1652113646088-23086970",
+    "category": "hand",
+    "inStock": 0
 }, {
     "name": "Kalapács",
     "price": 1500,
     "img": "img/kalapacs.jpg",
-    "_id": "1652113646088-99719332"
+    "_id": "1652113646088-99719332",
+    "category": "hand",
+    "inStock": 123
 }, {
     "name": "Cavarhózó (*)",
     "price": 1200,
     "img": "img/noimage.jpg",
-    "_id": "1652113646088-4081409"
+    "_id": "1652113646088-4081409",
+    "category": "hand",
+    "inStock": 63
 }, {
     "name": "Körfűrész",
     "price": 40000,
     "img": "img/noimage.jpg",
-    "_id": "1652113646088-6175424"
+    "_id": "1652113646088-6175424",
+    "category": "electric",
+    "inStock": 12
 }]
