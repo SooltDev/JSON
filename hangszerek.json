@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "name": "Kalimba",
+        "type": "ütős",
+        "brand": "Gewa",
+        "filters": [""],
+        "img": "1.jpg",
+        "price": 25000
+    },
+    {
+        "id": 2,
+        "name": "Djembe",
+        "brand": "Meinl",
+        "type": "ütős",
+        "filters": [""],
+        "img": "2.jpg",
+        "price": 45400
+    },
+    {
+        "id": 3,
+        "name": "Djembe",
+        "brand": "Basix",
+        "type": "ütős",
+        "filters": ["gyerek"],
+        "img": "3.jpg",
+        "price": 85000
+    },
+    {
+        "id": 4,
+        "name": "Kajon",
+        "brand": "Kotz",
+        "type": "ütős",
+        "filters": [""],
+        "img": "4.jpg",
+        "price": 35000
+    },
+    {
+        "id": 5,
+        "name": "Dob",
+        "brand": "Tama",
+        "type": "ütős",
+        "filters": [""],
+        "img": "5.jpg",
+        "price": 285000
+    },
+    {
+        "id": 6,
+        "name": "Elektromos zongora",
+        "brand": "Roland",
+        "type": "billentyűs",
+        "filters": ["elektromos"],
+        "img": "6.jpg",
+        "price": 245400
+    },
+    {
+        "id": 7,
+        "name": "Gitár",
+        "brand": "",
+        "type": "húros",
+        "filters": ["pengetős"],
+        "img": "7.jpg",
+        "price": 38900
+    },
+    {
+        "id": 8,
+        "name": "Gitár",
+        "brand": "Ibanez",
+        "type": "húros",
+        "filters": ["elektromos", "pengetős"],
+        "img": "8.jpg",
+        "price": 45400
+    },
+    {
+        "id": 9,
+        "name": "Szoprán furulya",
+        "instrumentType": "C",
+        "brand": "Yamaha",
+        "type": "fúvós",
+        "filters": ["fafúvós", "szoprán"],
+        "img": "9.jpg",
+        "price": 2500
+    },
+    {
+        "id": 10,
+        "name": "Szoprán furulya",
+        "instrumentType": "C Germán",
+        "brand": "Hohner",
+        "type": "fúvós",
+        "filters": ["fafúvós"],
+        "img": "10.jpg",
+        "price": 3200
+    },
+    {
+        "id": 11,
+        "name": "Szintetizátor",
+        "brand": "",
+        "type": "billentyűs",
+        "filters": ["elektromos"],
+        "img": "11.jpg",
+        "price": 3200
+    },
+    {
+        "id": 13,
+        "name": "Szaxofon",
+        "instrumentType": "B tenor",
+        "brand": "Yamaha",
+        "type": "fúvós",
+        "filters": ["fafúvós"],
+        "img": "13.jpg",
+        "price": 458900
+    },
+    {
+        "id": 14,
+        "name": "B Klarinet",
+        "instrumentType": "Bhöm system",
+        "brand": "Buffet Crampon",
+        "type": "fúvós",
+        "filters": ["fafúvós"],
+        "img": "14.jpg",
+        "price": 649490
+    },
+    {
+        "id": 15,
+        "name": "Hegedű",
+        "instrumentType": "4/4",
+        "brand": "Gewa",
+        "type": "vonós",
+        "filters": ["húros"],
+        "img": "15.jpg",
+        "price": 458900
+    },
+    {
+        "id": 16,
+        "name": "Cselló",
+        "instrumentType": "4/4",
+        "brand": "Gewa",
+        "type": "vonós",
+        "filters": ["húros"],
+        "img": "16.jpg",
+        "price": 349000
+    },
+    {
+        "id": 17,
+        "name": "Trombita",
+        "instrumentType": "B",
+        "brand": "Yamaha",
+        "type": "fúvós",
+        "filters": ["rézfúvós"],
+        "img": "17.jpg",
+        "price": 220300
+    }
+]
