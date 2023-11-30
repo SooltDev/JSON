@@ -5,7 +5,7 @@
         "type": "ütős",
         "brand": "Gewa",
         "filters": [""],
-        "img": "1.jpg",
+        "img": "kepek/1.jpg",
         "price": 25000
     },
     {
@@ -14,7 +14,7 @@
         "brand": "Meinl",
         "type": "ütős",
         "filters": [""],
-        "img": "2.jpg",
+        "img": "kepek/2.png",
         "price": 45400
     },
     {
@@ -23,7 +23,7 @@
         "brand": "Basix",
         "type": "ütős",
         "filters": ["gyerek"],
-        "img": "3.jpg",
+        "img": "kepek/3.jpg",
         "price": 85000
     },
     {
@@ -32,7 +32,7 @@
         "brand": "Kotz",
         "type": "ütős",
         "filters": [""],
-        "img": "4.jpg",
+        "img": "kepek/4.jpg",
         "price": 35000
     },
     {
@@ -41,7 +41,7 @@
         "brand": "Tama",
         "type": "ütős",
         "filters": [""],
-        "img": "5.jpg",
+        "img": "kepek/5.jpg",
         "price": 285000
     },
     {
@@ -50,7 +50,7 @@
         "brand": "Roland",
         "type": "billentyűs",
         "filters": ["elektromos"],
-        "img": "6.jpg",
+        "img": "kepek/6.jpg",
         "price": 245400
     },
     {
@@ -59,7 +59,7 @@
         "brand": "",
         "type": "húros",
         "filters": ["pengetős"],
-        "img": "7.jpg",
+        "img": "kepek/7.jpg",
         "price": 38900
     },
     {
@@ -68,7 +68,7 @@
         "brand": "Ibanez",
         "type": "húros",
         "filters": ["elektromos", "pengetős"],
-        "img": "8.jpg",
+        "img": "kepek/8.jpg",
         "price": 45400
     },
     {
@@ -78,7 +78,7 @@
         "brand": "Yamaha",
         "type": "fúvós",
         "filters": ["fafúvós", "szoprán"],
-        "img": "9.jpg",
+        "img": "kepek/9.jpg",
         "price": 2500
     },
     {
@@ -88,7 +88,7 @@
         "brand": "Hohner",
         "type": "fúvós",
         "filters": ["fafúvós"],
-        "img": "10.jpg",
+        "img": "kepek/10.jpg",
         "price": 3200
     },
     {
@@ -97,7 +97,7 @@
         "brand": "",
         "type": "billentyűs",
         "filters": ["elektromos"],
-        "img": "11.jpg",
+        "img": "kepek/11.jpg",
         "price": 3200
     },
     {
@@ -107,7 +107,7 @@
         "brand": "Yamaha",
         "type": "fúvós",
         "filters": ["fafúvós"],
-        "img": "13.jpg",
+        "img": "kepek/13.jpg",
         "price": 458900
     },
     {
@@ -117,7 +117,7 @@
         "brand": "Buffet Crampon",
         "type": "fúvós",
         "filters": ["fafúvós"],
-        "img": "14.jpg",
+        "img": "kepek/14.jpg",
         "price": 649490
     },
     {
@@ -127,7 +127,7 @@
         "brand": "Gewa",
         "type": "vonós",
         "filters": ["húros"],
-        "img": "15.jpg",
+        "img": "kepek/15.jpg",
         "price": 458900
     },
     {
@@ -137,7 +137,7 @@
         "brand": "Gewa",
         "type": "vonós",
         "filters": ["húros"],
-        "img": "16.jpg",
+        "img": "kepek/16.jpg",
         "price": 349000
     },
     {
@@ -147,7 +147,7 @@
         "brand": "Yamaha",
         "type": "fúvós",
         "filters": ["rézfúvós"],
-        "img": "17.jpg",
+        "img": "kepek/17.jpg",
         "price": 220300
     }
 ]
