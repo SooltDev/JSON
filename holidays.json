@@ -1,0 +1,105 @@
+{
+    "1": {
+        "1": {
+            "name": "Újév",
+            "description": "Az új év első napja",
+            "workbreak": true
+        },
+        "6": {
+            "name": "Háromkirályok ünnepe",
+            "description": "Jézus Krisztus megkeresése",
+            "workbreak": false
+        },
+        "22": {
+            "name": "A Magyar kultúra napja",
+            "description": "A magyar kultúra és nyelv ünnepe",
+            "workbreak": false
+        }
+    },
+    "3": {
+        "8": {
+            "name": "Női nap",
+            "description": "A nők világnapja",
+            "workbreak": false
+        },
+        "15": {
+            "name": "Március 15-e",
+            "description": "A magyar nemzeti öntudat és szabadságvívás emléknapja",
+            "workbreak": false
+        }
+    },
+    "4": {
+        "4": {
+            "name": "Veszedelmeztető riasztás napja",
+            "description": "Országos riasztásgyakorlat",
+            "workbreak": false
+        },
+        "16": {
+            "name": "Holokauszt emléknap",
+            "description": "1944-ben a Kárpátalján ezen a napon kezdődött el a zsidóság gettókba kényszerítése későbbi deportálásuk céljából. Az Országgyűlés 2000. évi döntése szerint 2001-től minden évben április 16-án tartják meg az emléknapot a középiskolákban.",
+            "workbreak": false
+        }
+    },
+    "5": {
+        "1": {
+            "name": "Munka ünnepe",
+            "description": "A munkásmozgalom ünnepe",
+            "workbreak": true
+        }
+    },
+    "6": {
+        "4": {
+            "name": "A nemzeti összetartozás napja",
+            "description": "Nemzeti emléknap a trianoni békeszerződés aláírásának (1920) évfordulója, 2010 óta emléknap.",
+            "workbreak": false
+        }
+    },
+    "8": {
+        "20": {
+            "name": "Szent István ünnepe",
+            "description": "Magyarország államalapítójának ünnepe",
+            "workbreak": true
+        }
+    },
+    "10": {
+        "6": {
+            "name": "Az aradi vértanúk emléknapja",
+            "description": "Nemzeti emléknap. Az iskolákban megemlékezést tartanak.",
+            "workbreak": false
+        },
+        "23": {
+            "name": "Az 1956-os forradalom ünnepe",
+            "description": "Az 1956. évi forradalom és szabadságharc emlékére. Korábban a Harmadik Köztársaság kikiáltásának az ünnepe is volt.",
+            "workbreak": true
+        }
+    },
+    "11": {
+        "1": {
+            "name": "Minden Szentek ünnepe",
+            "description": "Keresztény ünnep, a naptárban nem szereplő szentek emléknapja",
+            "workbreak": true
+        },
+        "12": {
+            "name": "Halottak napja",
+            "description": "Elhunyt szeretteinkre emlékezünk",
+            "workbreak": false
+        },
+        "11": {
+            "name": "Szent Márton napja",
+            "description": "Szent Márton emlékünnepe",
+            "workbreak": false
+        }
+    },
+    "12": {
+        "25": {
+            "name": "Karácsony",
+            "description": "Jézus Krisztus születésének ünnepe",
+            "workbreak": true
+        },
+        "26": {
+            "name": "Karácsony másodnapja",
+            "description": "Karácsony második napja",
+            "workbreak": true
+        }
+    }
+}
